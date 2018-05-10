@@ -1,0 +1,8 @@
+*.jar
+*.gz
+target
+*.zip
+temp
+*.crt
+*.key
+.idea
